@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/new-game-pages/static/css/main.3e00c997.css",
-    "main.js": "/new-game-pages/static/js/main.f458655d.js",
+    "main.css": "/new-game-pages/static/css/main.0f20e986.css",
+    "main.js": "/new-game-pages/static/js/main.3827affc.js",
+    "static/media/cmpd.webp": "/new-game-pages/static/media/cmpd.ebb170f60d99868170a9.webp",
+    "static/media/pdshr.webp": "/new-game-pages/static/media/pdshr.57059f700f339f5cb9b6.webp",
     "static/media/hero-header.webp": "/new-game-pages/static/media/hero-header.5e92f3fa1fb77c55ae0d.webp",
+    "static/media/nlpd.webp": "/new-game-pages/static/media/nlpd.c05778e080dc84537117.webp",
     "static/media/logo-new-game.jpg": "/new-game-pages/static/media/logo-new-game.5c12395679128961c69f.jpg",
     "static/media/home-bg-mobile.webp": "/new-game-pages/static/media/home-bg-mobile.e9683b87e33bb4635e8d.webp",
     "static/media/social-media-icon.webp": "/new-game-pages/static/media/social-media-icon.a1d5b93052d934763908.webp",
+    "static/media/instagram.webp": "/new-game-pages/static/media/instagram.2ad6986961f4fe66c369.webp",
     "static/media/graphic-design-icon.webp": "/new-game-pages/static/media/graphic-design-icon.0201610b14202774cea0.webp",
+    "static/media/tiktok.webp": "/new-game-pages/static/media/tiktok.7c09c246191b0a10273e.webp",
     "static/media/ui-icon.webp": "/new-game-pages/static/media/ui-icon.62894be868cb39a11280.webp",
+    "static/media/facebook.webp": "/new-game-pages/static/media/facebook.8094124d467ff213c8e7.webp",
     "index.html": "/new-game-pages/index.html",
-    "main.3e00c997.css.map": "/new-game-pages/static/css/main.3e00c997.css.map",
-    "main.f458655d.js.map": "/new-game-pages/static/js/main.f458655d.js.map"
+    "main.0f20e986.css.map": "/new-game-pages/static/css/main.0f20e986.css.map",
+    "main.3827affc.js.map": "/new-game-pages/static/js/main.3827affc.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e00c997.css",
-    "static/js/main.f458655d.js"
+    "static/css/main.0f20e986.css",
+    "static/js/main.3827affc.js"
   ]
 }
