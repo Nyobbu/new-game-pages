@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/new-game-pages/static/css/main.0f20e986.css",
-    "main.js": "/new-game-pages/static/js/main.3827affc.js",
+    "main.css": "/new-game-pages/static/css/main.1b6cbdb4.css",
+    "main.js": "/new-game-pages/static/js/main.3eb545a1.js",
     "static/media/cmpd.webp": "/new-game-pages/static/media/cmpd.ebb170f60d99868170a9.webp",
     "static/media/pdshr.webp": "/new-game-pages/static/media/pdshr.57059f700f339f5cb9b6.webp",
     "static/media/hero-header.webp": "/new-game-pages/static/media/hero-header.5e92f3fa1fb77c55ae0d.webp",
@@ -15,11 +15,11 @@
     "static/media/ui-icon.webp": "/new-game-pages/static/media/ui-icon.62894be868cb39a11280.webp",
     "static/media/facebook.webp": "/new-game-pages/static/media/facebook.8094124d467ff213c8e7.webp",
     "index.html": "/new-game-pages/index.html",
-    "main.0f20e986.css.map": "/new-game-pages/static/css/main.0f20e986.css.map",
-    "main.3827affc.js.map": "/new-game-pages/static/js/main.3827affc.js.map"
+    "main.1b6cbdb4.css.map": "/new-game-pages/static/css/main.1b6cbdb4.css.map",
+    "main.3eb545a1.js.map": "/new-game-pages/static/js/main.3eb545a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f20e986.css",
-    "static/js/main.3827affc.js"
+    "static/css/main.1b6cbdb4.css",
+    "static/js/main.3eb545a1.js"
   ]
 }
